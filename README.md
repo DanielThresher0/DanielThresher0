@@ -1,4 +1,4 @@
-[![MasterHead](https://pin.it/5Lt4mQeK3](https://uk.pinterest.com/pin/computer-code-decrypting-animated-gif--952652127407579398/)](https://github.com/DanielThresher0/)
+[![MasterHead](https://uk.pinterest.com/pin/computer-code-decrypting-animated-gif--952652127407579398/)](https://github.com/DanielThresher0/)
 
 <h1 align="center">Hi 👋, I'm Daniel Thresher</h1>
 <h3 align="center">A passionate full-stack developer from the UK</h3>
